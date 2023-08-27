@@ -5,7 +5,7 @@
   
 
 - 🔭 I’m currently working on some small projects.  
-- 🌱 I’m currently learning React and OCaml.
+- 🌱 I’m currently learning JavaScript and OCaml.
 - ❤️ I love writing Python and C++.
 - 📧 Talk with me [here](mailto:cdrloq@protonmail.com).
 
