@@ -4,7 +4,7 @@ I'm Coder109.
 - 🔭 I’m interested in algorithms and OSS(Open Source Softwares).
 - 🔬 I'm doing some research on NLP(KG+LLM).
 - 🌱 I’m currently learning Rust and OCaml.
-- 💻 I mainly write C/C++ and Python.
+- 💻 I mainly write C/C++ and Python. Sometimes, I will code some tools for my Emacs in emacs-lisp.
 - 📧 Talk with me [here](mailto:cdrloq@protonmail.com).
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
