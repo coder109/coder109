@@ -1,8 +1,9 @@
 
 I'm Coder109.
-- 📖 An undergraduate majoring in AI from Harbin Institute of Technology.
-- 🔭 I’m interested in Knowledge Graph and LLM.  
-- 🌱 I’m currently learning JavaScript and OCaml.
+- 📖 I'm an undergraduate majoring in AI from Harbin Institute of Technology(HIT).
+- 🔭 I’m interested in algorithms and OSS(Open Source Softwares).
+- 🔬 I'm doing some research on NLP(KG+LLM).
+- 🌱 I’m currently learning Rust and OCaml.
 - 💻 I mainly write C/C++ and Python.
 - 📧 Talk with me [here](mailto:cdrloq@protonmail.com).
 
