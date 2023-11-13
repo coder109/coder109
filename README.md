@@ -1,5 +1,4 @@
-
-Hi! I'm Coder109.
+<img src="https://github.com/coder109/coder109/assets/30566825/3a880510-1275-4bfc-9dee-f6170aefbfbd">
 - 📖 I'm an undergraduate majoring in AI from Harbin Institute of Technology(HIT).
 - 🔭 I’m interested in algorithms and OSS(Open Source Softwares).
 - 🔬 I'm doing some research on NLP(KG+LLM).
