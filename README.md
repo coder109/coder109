@@ -1,13 +1,12 @@
 <img src="https://github.com/coder109/coder109/assets/30566825/3a880510-1275-4bfc-9dee-f6170aefbfbd" width=95% height=95%/>
 
-Think, code and hack.
-
 - 📖 I'm an undergraduate majoring in AI from Harbin Institute of Technology(HIT).
 - 🔭 I’m interested in algorithms and OSS(Open Source Softwares).
 - 🔬 I'm doing some research on NLP(KG+LLM).
 - 🌱 I’m currently learning Rust and OCaml.
 - 💻 I mainly write C/C++ and Python.
 - 🥲 I'm also interested in CTF and Competitive Programming(CP), but I'm not good at those.
+- 😎 Think, code and hack!
 - 📧 Talk with me [here](mailto:cdrloq@protonmail.com).
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
