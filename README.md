@@ -8,6 +8,8 @@
 - 🥲 I'm also interested in CTF and Competitive Programming(CP), but I'm not good at those. Sad.
 - 😯 I plan to learn something about React.
 - 😎 Think, code and hack!
+- ⛩️ I'm currently learning Japanese and English. Also, I can speak a little Esperanto.🌐
+- 🎵 I plan to work on some coding projects about music.
 - 📧 Talk with me [here](mailto:cdrloq@protonmail.com).
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
