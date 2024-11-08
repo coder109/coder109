@@ -1,9 +1,9 @@
 <img src="https://github.com/coder109/coder109/assets/30566825/3a880510-1275-4bfc-9dee-f6170aefbfbd" width=95% height=95%/>
 
 - 📖 I'm an undergraduate majoring in AI from Harbin Institute of Technology(HIT).
-- 🔭 I’m obsessed with algorithms, OSS(Open Source Softwares) and hacking.
+- 🔭 I'm obsessed with algorithms, OSS(Open Source Softwares) and hacking.
 - 🔬 I'm doing some research on NLP(KG+LLM+RAG).
-- 🌱 I’m currently learning Rust and OCaml.
+- 🌱 I'm currently learning Rust and OCaml.
 - 💻 I mainly write C/C++ and Python. Sometimes, I will write Java programs.
 - 🥲 I'm also interested in CTF and Competitive Programming(CP), but I'm not good at those. Sad.
 - 😯 I plan to learn something about React.
