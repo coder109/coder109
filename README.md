@@ -1,11 +1,5 @@
 <img src="https://github.com/coder109/coder109/assets/30566825/3a880510-1275-4bfc-9dee-f6170aefbfbd" width=95% height=95%/>
 
-
-**<p align="center">Love is patient and kind; love does not envy or boast; it is not arrogant or rude.</p>**
-**<p align="center">It does not insist on its own way; it is not irritable or resentful; </p>**
-**<p align="center">it does not rejoice at wrongdoing, but rejoices with the truth.</p>**
-**<p align="center">Love bears all things, believes all things, hopes all things, endures all things.</p>**
-
 - 📖 I'm an undergraduate majoring in AI from Harbin Institute of Technology(HIT).
 - 🔭 I'm obsessed with algorithms, OSS(Open Source Softwares) and hacking.
 - 🔬 I'm doing some research on NLP(KG+LLM).
