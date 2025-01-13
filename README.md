@@ -3,7 +3,7 @@
 - 📖 I'm an undergraduate majoring in AI from Harbin Institute of Technology(HIT).
 - 🔭 I'm obsessed with algorithms, OSS(Open Source Softwares) and hacking.
 - 🔬 I'm doing some research on NLP(KG+LLM).
-- 🌱 I'm currently learning Lisp, Rust and React.
+- 🌱 I'm currently learning Haskell, Rust and Vue.js.
 - 💻 I mainly write Python. Sometimes, I will write C/C++.
 - 🥲 I'm also interested in CTF and Competitive Programming(CP), but I'm not good at those. Sad.
 - 😎 Think, code and hack!
