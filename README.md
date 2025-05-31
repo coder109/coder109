@@ -1,12 +1,13 @@
 <img src="https://github.com/coder109/coder109/assets/30566825/3a880510-1275-4bfc-9dee-f6170aefbfbd" width=95% height=95%/>
 
-- 📖 I'm an undergraduate majoring in AI from Harbin Institute of Technology(HIT).
+- 📖 I'm a postgraduate majoring in AI from Harbin Institute of Technology(HIT).
 - 🔭 I'm obsessed with algorithms, coding, OSS(Open Source Softwares) and hacking.
 - 🔬 I'm doing some research on Multimodal Machine Translation(MMT).
-- 🌱 I'm currently learning Haskell, Rust and Vue.js.
-- 💻 I mainly code in Python.
+- 🌱 I'm currently learning Functional Programming(FP) and Front-End Programming.
+- 💻 I mainly code in Python and C.
+- 😆 Some of my hobbies: Music, Theology, Shogi, Language Learning, Pixel Art Making, Gaming and Drinking Cocktails.
 - 😎 Think, code and hack!
-- 📧 Talk with me [here](mailto:cdrloq@protonmail.com).
+- 📧 Talk with me [here](mailto:3211697682@qq.com).
 
 
 
