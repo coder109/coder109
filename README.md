@@ -1,4 +1,4 @@
-<img src="https://github.com/coder109/coder109/assets/30566825/3a880510-1275-4bfc-9dee-f6170aefbfbd" width=95% height=95%/>
+<img src="https://github.com/coder109/coder109/assets/30566825/3a880510-1275-4bfc-9dee-f6170aefbfbd" width=95%/>
 
 - 📖 I'm a postgraduate majoring in AI from Harbin Institute of Technology(HIT).
 - 🔭 I'm obsessed with algorithms, coding, OSS(Open Source Softwares) and hacking.
