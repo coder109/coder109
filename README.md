@@ -5,7 +5,6 @@
 - 🔬 I'm doing some research on Multimodal Machine Translation(MMT).
 - 🌱 I'm currently learning Functional Programming(FP) and Front-End Programming.
 - 💻 I mainly code in Python and C.
-- 😆 Some of my hobbies: Music, Theology, Shogi, Language Learning, Pixel Art Making, Gaming and Drinking Cocktails.
 - 😎 Think, code and hack!
 - 📧 Talk with me [here](mailto:3211697682@qq.com).
 
