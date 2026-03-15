@@ -3,7 +3,7 @@
 - 📖 I'm a postgraduate majoring in AI from Harbin Institute of Technology(HIT).
 - 🔭 I'm obsessed with algorithms, coding, OSS(Open Source Softwares) and hacking.
 - 🔬 I'm doing some research on Multimodal Machine Translation(MMT).
-- 🌱 I'm currently learning Functional Programming(FP) and Front-End Programming.
+- 🌱 I'm currently learning JavaScript, Rust and Haskell.
 - 💻 I mainly code in Python, Golang and C. I'm interested in learning different programming languages.
 - 😎 Think, code and hack!
 - 📧 Talk with me [here](mailto:3211697682@qq.com).
