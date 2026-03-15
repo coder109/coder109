@@ -14,3 +14,5 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder109&layout=compact)
